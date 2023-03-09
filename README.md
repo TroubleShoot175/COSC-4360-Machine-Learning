@@ -1,7 +1,5 @@
 # Machine Learning
 
-## Machine Learning
-
 ### COSC 4360 / Dr.Sotiros - Tarleton State University
 
 This is a Repository of all completed exercises. These include but are not limited too homework and lab excercises.
