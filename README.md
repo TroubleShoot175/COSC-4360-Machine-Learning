@@ -1,6 +1,6 @@
 # COSC-4360-Machine-Learning
 
-## Machine Learning=
+## Machine Learning
 
 ### COSC 4360 / Dr.Sotiros - Tarleton State University
 
